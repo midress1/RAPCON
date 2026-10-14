@@ -61,9 +61,9 @@ Descreva informações relevantes para desenvolver, modificar ou contribuir com 
 
 **Alunos**
 
-* Nome do aluno (semestre)
-* Nome do aluno (semestre)
-* Nome do aluno (semestre)
+* Milena Dressler (8º Semestre)
+* Vitor Salbego (6º semestre)
+
 
 **Professores orientadores**
 
