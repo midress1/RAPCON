@@ -216,3 +216,45 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ========================================
+# Arquivos de Desenho (AutoCAD / Civil 3D)
+# ========================================
+
+# Arquivos de backup e autosave do AutoCAD
+*.bak
+*.sv$
+*.$$$
+*.ac$
+
+# Arquivos de lock (gerados automaticamente quando um DWG está aberto)
+*.dwl
+*.dwl2
+
+# Logs de plotagem e de erros
+*.err
+*.log
+*.plot.log
+
+# ========================================
+# AutoLISP / Visual LISP / DCL
+# ========================================
+
+# Arquivos binários compilados (apenas o código-fonte .lsp deve ir para o Git)
+*.fas
+*.vlx
+
+# Arquivos de compilação de projeto Lisp (opcional, comente se quiser versionar)
+*.prj
+
+# ========================================
+# VBA e Temporários
+# ========================================
+
+# Arquivos de lock temporários de projetos VBA
+~$*.dvb
+
+# Caches do Windows/Sistema
+Thumbs.db
+.DS_Store
